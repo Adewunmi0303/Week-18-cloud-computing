@@ -9,9 +9,9 @@ Backend developers can use cloud services to:
 4.Integrate services like authentication, databases, and file storage quickly
 ## Screenshots
 ## 1 Lamda Test Output
-![Lambda Test](./screenshots/lambda-test.jpeg)
+![Lambda Test](./Screenshots/lambda-test-JPEG.jpeg)
 ## 2 API Gateway Response
-![API Response](./screenshots/api-response.jpeg)
+![API Response](./Screenshots/api-response-JPEG.jpeg)
 
 ###  How to Deploy and Test the Endpoint
 
