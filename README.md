@@ -9,9 +9,9 @@ Backend developers can use cloud services to:
 4.Integrate services like authentication, databases, and file storage quickly
 ## Screenshots
 ## 1 Lamda Test Output
-![Lambda Test](./Screenshots/lambda-test-JPEG.jpeg)
+![Lambda Test](./Screenshots/lambda-test.jpeg)
 ## 2 API Gateway Response
-![API Response](./Screenshots/api-response-JPEG.jpeg)
+![API Response](./Screenshots/api-response.jpeg)
 
 ###  How to Deploy and Test the Endpoint
 
@@ -42,6 +42,10 @@ Backend developers can use cloud services to:
 > `https://p03lz0epbd.execute-api.eu-north-1.amazonaws.com/hello`
 
 ###  Step 3: Test the API
+ Example of response 
+ {
+  'message': 'Welcome to cloud'
+ }
 
 ####  Using Your Browser or Postman
 Visit your full endpoint in a browser:
